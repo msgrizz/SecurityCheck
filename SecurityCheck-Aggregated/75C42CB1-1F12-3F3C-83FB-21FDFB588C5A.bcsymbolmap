@@ -1,0 +1,25 @@
+BCSymbolMap Version: 2.0
+-[SecurityService init]
++[SecurityService rootCheck:]
+___29+[SecurityService rootCheck:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
++[SecurityService debugCheck:]
+___30+[SecurityService debugCheck:]_block_invoke
+___copy_helper_block_.1
+___destroy_helper_block_.2
+___30+[SecurityService debugCheck:]_block_invoke.5
+___copy_helper_block_.6
+___destroy_helper_block_.7
+___block_descriptor_tmp
+___block_descriptor_tmp.4
+___block_descriptor_tmp.8
+Apple LLVM version 9.1.0 (clang-902.0.39.2)
+/Users/msalari/Desktop/SecurityCheck/SecurityCheck/SecurityService.m
+/Users/msalari/Desktop/SecurityCheck
+__destroy_helper_block_
+__copy_helper_block_
+__30+[SecurityService debugCheck:]_block_invoke.5
+__30+[SecurityService debugCheck:]_block_invoke
+__29+[SecurityService rootCheck:]_block_invoke
+/Users/msalari/Library/Developer/Xcode/DerivedData/SecurityCheck-djnamwkvwfpzayafaymxispygusx/Build/Intermediates.noindex/ArchiveIntermediates/SecurityCheck/IntermediateBuildFilesPath/SecurityCheck.build/Release-iphoneos/SecurityCheck.build/DerivedSources/SecurityCheck_vers.c

@@ -1,0 +1,6 @@
+framework module SecurityCheck {
+  umbrella header "SecurityCheck.h"
+
+  export *
+  module * { export * }
+}
